@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://nkhs.github.io/sitemap.xml
+Host: https://nkhs.github.io
