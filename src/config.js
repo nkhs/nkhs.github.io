@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Wang is an incoming Software Developer, based in China, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Wang, Deb, nkhs, software engineer, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
+    'Wang, Deb, nkhs, software engineer, web developer, javascript, react.js, opensource, mesra, freelancer',
   siteUrl: 'https://nkhs.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
