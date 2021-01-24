@@ -12,4 +12,4 @@ showInProjects: true
 ---
 
 Simple Chrome Extension for a quick launcher to your all social media profiles at one click.
-Inspired by the tutorial video of [Traversy Media](https://www.youtube.com/watch?v=wHZCYi1K664)
+Inspired by the tutorial video of [Traversy Media](https://www.youtube.com/watch?v=Lqok_Ms-wGo)

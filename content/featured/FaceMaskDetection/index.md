@@ -3,7 +3,7 @@ date: '3'
 title: 'Face Mask Detection'
 cover: 'face-mask.png'
 github: 'https://github.com/nkhs/Face-Mask-Detection'
-external: 'https://www.youtube.com/watch?v=AAkNyZlUae0'
+external: 'https://www.youtube.com/watch?v=Lqok_Ms-wGo'
 tech:
   - OpenCV
   - MobileNetV2

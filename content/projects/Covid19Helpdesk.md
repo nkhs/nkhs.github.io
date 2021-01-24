@@ -2,7 +2,7 @@
 date: '2020-04-13'
 title: 'Covid-19 Helpdesk'
 github: 'https://github.com/nkhs/Covid-19-HelpDesk'
-external: 'https://www.youtube.com/watch?v=s9ivtzkpK6w&feature=youtu.be'
+external: 'https://www.youtube.com/watch?v=Lqok_Ms-wGo&feature=youtu.be'
 tech:
   - PHP
   - Javascript

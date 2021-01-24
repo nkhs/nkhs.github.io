@@ -1,16 +1,16 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Engineer',
+  siteTitle: 'Wang | Software Engineer',
   siteDescription:
-    'Chandrika Deb is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Wang is an incoming Software Developer, based in China, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, nkhs, software engineer, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
+    'Wang, Deb, nkhs, software engineer, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
   siteUrl: 'https://nkhs.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'nkhs@gmail.com',
+  googleVerification: 'VhsRHLjZgARQkgFq0IIkurotIL6Mk9DN3FacEoGfS64',
+  name: 'Wang',
+  location: 'Shenyang, China',
+  email: 'wbit85@gmail.com',
   github: 'https://github.com/nkhs',
   twitterHandle: '@nkhs',
   socialMedia: [
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/wang-liang-2a268a15a/',
     },
     {
       name: 'Codepen',
